@@ -22,7 +22,9 @@ Go to chrome://extensions (depends on which chromium based browser you're on, fo
 <img width="1919" height="202" alt="image" src="https://github.com/user-attachments/assets/56372a3a-1b87-454d-b773-e74bf20faf83" />  
 
 Get the source code from the lastest release at https://github.com/resodoesthings/REXT/releases/  
-<img width="188" height="73" alt="image" src="https://github.com/user-attachments/assets/53b9c8d7-e9d4-4155-ba7a-e4bff00c39bf" />  
+<img width="188" height="73" alt="image" src="https://github.com/user-attachments/assets/53b9c8d7-e9d4-4155-ba7a-e4bff00c39bf" /> 
+
+Keeping blacklist-data.txt and the readme is purely optional unless you know what you're doing and you want your list to be custom.  
 
 Unzip your source code then go back to extensions  
 
