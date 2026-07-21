@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "REXT",
+  "version": "1.0.0",
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "https://raw.githubusercontent.com/*"
+  ],
+  "action": {
+    "default_popup": "window.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.roblox.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
