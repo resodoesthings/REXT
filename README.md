@@ -14,3 +14,19 @@ have fun!! :3
 > We have recieved 5 requests so far  
 > 0 of which were rejected  
 > 5 of which were accepted
+
+but reso,
+# how do i download?  
+
+Go to chrome://extensions (depends on which chromium based browser you're on, for example it is helium://extensions for helium users)  
+<img width="1919" height="202" alt="image" src="https://github.com/user-attachments/assets/56372a3a-1b87-454d-b773-e74bf20faf83" />  
+
+Get the source code from the lastest release at https://github.com/resodoesthings/REXT/releases/  
+<img width="188" height="73" alt="image" src="https://github.com/user-attachments/assets/53b9c8d7-e9d4-4155-ba7a-e4bff00c39bf" />  
+
+Unzip your source code then go back to extensions  
+
+Then you must load your folder into it  
+<img width="147" height="104" alt="image" src="https://github.com/user-attachments/assets/c498aa03-86c7-4559-b963-a81d720a8f77" />
+
+
