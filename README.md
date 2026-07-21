@@ -11,6 +11,6 @@ If demand is too high, we close the form temporarily until we can catch up.
 
 have fun!! :3  
 
-> We have recieved 5 requests so far
-> 0 of which were rejected
+> We have recieved 5 requests so far  
+> 0 of which were rejected  
 > 5 of which were accepted
