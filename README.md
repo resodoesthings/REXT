@@ -9,4 +9,8 @@ If demand is too high, we close the form temporarily until we can catch up.
 
 <img width="630" height="106" alt="image" src="https://github.com/user-attachments/assets/813d0c5d-e642-4874-8bff-86aac8fd85ac" />  
 
-have fun!! :3
+have fun!! :3  
+
+> We have recieved 5 requests so far
+> 0 of which were rejected
+> 5 of which were accepted
