@@ -11,10 +11,8 @@ If demand is too high, we close the form temporarily until we can catch up.
 
 have fun!! :3  
 
-> We have recieved 5 requests so far  
-> 0 of which were rejected  
-> 6 of which were accepted  
-> **5/6 implemented!**  
+> 0 rejected  
+> 27 accepted    
 We commit all the blacklist changes every Sunday.  
 
 but reso,
