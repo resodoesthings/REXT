@@ -1,4 +1,4 @@
-const REMOTE_BLACKLIST_URL = 'https://raw.githubusercontent.com/resodoesthings/REXT/main/blacklist-data.txt';
+const REMOTE_BLACKLIST_URL = 'https://raw.githubusercontent.com/resodoesthings/REXT/other/blacklist-data.txt';
 
 let blockedGameIds = new Set();
 let isFilterEnabled = true;
