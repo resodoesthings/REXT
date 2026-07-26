@@ -13,7 +13,16 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://www.roblox.com/home", "https://www.roblox.com/charts", "https://www.roblox.com/games/*"],
+      "matches": [
+        "https://www.roblox.com/home*",
+        "https://www.roblox.com/charts*",
+        "https://www.roblox.com/games/*"
+      ],
+      "exclude_matches": [
+        "https://www.roblox.com/users/*",
+        "https://www.roblox.com/my/avatar*",
+        "https://www.roblox.com/friends*"
+      ],
       "js": ["content.js"],
       "run_at": "document_idle"
     }
