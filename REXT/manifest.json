@@ -13,7 +13,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://www.roblox.com/*"],
+      "matches": ["https://www.roblox.com/home", "https://www.roblox.com/charts", "https://www.roblox.com/games/*"],
       "js": ["content.js"],
       "run_at": "document_idle"
     }
